@@ -4,8 +4,7 @@ from sqlalchemy import text
 from db import SessionLocal, engine
 from models import Base
 
-def init_db():
-    # 1. Enable PostGIS & Create Tables (Init DB)
+def create_tables_only():
     print("Creating tables...")
     try:
         with engine.connect() as conn:
@@ -13,13 +12,16 @@ def init_db():
             conn.commit()
     except Exception as e:
         print(f"Warning creating extension: {e}")
+        return {"status": "warning", "message": f"Extension warning: {e}"}
 
-    Base.metadata.create_all(bind=engine)
+    try:
+        Base.metadata.create_all(bind=engine)
+        return {"status": "success", "message": "Tables created successfully"}
+    except Exception as e:
+        return {"status": "error", "message": str(e)}
 
-    # 2. Load Data
+def import_data_only():
     print("Loading GeoJSON...")
-    
-    # Path robust: relative to this file
     base_dir = os.path.dirname(os.path.abspath(__file__))
     json_path = os.path.join(base_dir, "data/roads.geojson")
     
@@ -30,14 +32,12 @@ def init_db():
         return {"status": "error", "message": f"{json_path} not found!"}
 
     db = SessionLocal()
-    
     count = 0
     try:
         print(f"Importing {len(geo['features'])} roads...")
         for f in geo["features"]:
             p = f["properties"]
             g = json.dumps(f["geometry"])
-
             db.execute(
                 text("""
                     INSERT INTO roads
@@ -58,7 +58,6 @@ def init_db():
                 }
             )
             count += 1
-        
         db.commit()
         return {"status": "success", "imported": count}
     except Exception as e:
@@ -66,6 +65,17 @@ def init_db():
         return {"status": "error", "message": str(e)}
     finally:
         db.close()
+
+def init_db():
+    create_res = create_tables_only()
+    if create_res.get("status") == "error":
+        return create_res
+    
+    import_res = import_data_only()
+    return {
+        "create_tables": create_res,
+        "import_data": import_res
+    }
 
 if __name__ == "__main__":
     init_db()

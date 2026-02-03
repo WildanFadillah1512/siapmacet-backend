@@ -352,8 +352,17 @@ def api_key_status():
         return {"error": str(e)}
 
 
+@app.get("/debug/create_tables")
+def debug_create_tables():
+    from loader_geojson import create_tables_only
+    return create_tables_only()
+
+@app.get("/debug/import_data")
+def debug_import_data():
+    from loader_geojson import import_data_only
+    return import_data_only()
+
 @app.get("/debug_init_db")
 def debug_init_db():
     from loader_geojson import init_db
-    result = init_db()
-    return result
+    return init_db()
