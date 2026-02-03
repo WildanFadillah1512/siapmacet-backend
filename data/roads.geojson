@@ -1,0 +1,1361 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "road_id": "SBM_TKL_02",
+        "road_name": "Jl TANGKIL",
+        "city": "SUKABUMI",
+        "road_weight": 0.85
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            106.7807602794017,
+            -6.889820615107894
+          ],
+          [
+            106.77984325712993,
+            -6.88737370510384
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "road_id": "SBM_SKC_01",
+        "road_name": "Jl SURYAKENCANA",
+        "city": "SUKABUMI",
+        "road_weight": 0.85
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            106.77977482969612,
+            -6.887220765607296
+          ],
+          [
+            106.77890074333021,
+            -6.884769704339362
+          ],
+          [
+            106.77866362893184,
+            -6.883841184100206
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "road_id": "SBM_SKC_03",
+        "road_name": "Jl SURYAKENCANA",
+        "city": "SUKABUMI",
+        "road_weight": 0.95
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            106.77650833705837,
+            -6.87718834112664
+          ],
+          [
+            106.77685913306692,
+            -6.878028372667231
+          ],
+          [
+            106.77826036779663,
+            -6.879806636275447
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "road_id": "SBM_SKC_02",
+        "road_name": "Jl SURYAKENCANA",
+        "city": "SUKABUMI",
+        "road_weight": 0.85
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            106.77832257491974,
+            -6.880040283333841
+          ],
+          [
+            106.7782269012659,
+            -6.880324188039268
+          ],
+          [
+            106.77797205221401,
+            -6.880680557444691
+          ],
+          [
+            106.77794597350083,
+            -6.88084798157854
+          ],
+          [
+            106.77816942756522,
+            -6.881958711886966
+          ],
+          [
+            106.77854469287877,
+            -6.883282685732638
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "road_id": "SBM_BYK_01",
+        "road_name": "Jl BAYANGKARA",
+        "city": "SUKABUMI",
+        "road_weight": 0.75
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            106.87306795621316,
+            -6.9056154616827
+          ],
+          [
+            106.87134362684583,
+            -6.905937992547194
+          ],
+          [
+            106.87026907621714,
+            -6.905827375181659
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "road_id": "SBM_BYK_02",
+        "road_name": "Jl BAYANGKARA",
+        "city": "SUKABUMI",
+        "road_weight": 0.7
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            106.87359668276457,
+            -6.905605024678962
+          ],
+          [
+            106.87592197110553,
+            -6.905392676923896
+          ],
+          [
+            106.87618417085667,
+            -6.905303627681036
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "road_id": "SBM_BYK_03",
+        "road_name": "Jl BAYANGKARA",
+        "city": "SUKABUMI",
+        "road_weight": 0.4
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            106.87674544911636,
+            -6.90505203275346
+          ],
+          [
+            106.87944906820024,
+            -6.903958835951514
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "road_id": "SBM_BYK_04",
+        "road_name": "Jl BAYANGKARA",
+        "city": "SUKABUMI",
+        "road_weight": 0.45
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            106.88164502887025,
+            -6.903050102245643
+          ],
+          [
+            106.88297810487916,
+            -6.902541028448354
+          ],
+          [
+            106.88352346102084,
+            -6.902532144847569
+          ],
+          [
+            106.88419514156493,
+            -6.902889332098496
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "road_id": "SBM_JLR_01",
+        "road_name": "JALUR",
+        "city": "SUKABUMI",
+        "road_weight": 0.35
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            106.8737809844543,
+            -6.905743153369102
+          ],
+          [
+            106.87362768243014,
+            -6.9060791431165995
+          ],
+          [
+            106.8735614267739,
+            -6.906421115822823
+          ],
+          [
+            106.87359395193675,
+            -6.907125231317011
+          ],
+          [
+            106.87358035785911,
+            -6.907309665585245
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "road_id": "SBM_JLR_02",
+        "road_name": "JALUR",
+        "city": "SUKABUMI",
+        "road_weight": 0.55
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            106.87237334278109,
+            -6.905768159450616
+          ],
+          [
+            106.87324797768912,
+            -6.907048129201399
+          ],
+          [
+            106.87366085113194,
+            -6.908135932260791
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "road_id": "SBM_KAS_01",
+        "road_name": "Jl KH AHMAD SANUSI",
+        "city": "SUKABUMI",
+        "road_weight": 0.55
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            106.91477141371138,
+            -6.918766207977896
+          ],
+          [
+            106.91631034050346,
+            -6.9192378258941005
+          ],
+          [
+            106.91749218490133,
+            -6.919464933545839
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "road_id": "SBM_PBS_02",
+        "road_name": "Jl PANGLIMA BESAR SUDIRMAN",
+        "city": "SUKABUMI",
+        "road_weight": 0.5
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            106.91769863101581,
+            -6.919445377934736
+          ],
+          [
+            106.9194664981951,
+            -6.919763142517866
+          ],
+          [
+            106.92062870462206,
+            -6.920129103305484
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "road_id": "SBM_BHY_01",
+        "road_name": "Jl BHAYANGKARA",
+        "city": "SUKABUMI",
+        "road_weight": 0.45
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            106.91603130414052,
+            -6.919098358837289
+          ],
+          [
+            106.91694467332121,
+            -6.916400844654248
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "road_id": "SBM_CCR_01",
+        "road_name": "Jl CAGAK CIBARATA",
+        "city": "SUKABUMI",
+        "road_weight": 0.55
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            106.8901220228268,
+            -6.9070177229414185
+          ],
+          [
+            106.89235080398487,
+            -6.908518217551659
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "road_id": "SBM_PBS_01",
+        "road_name": "Jl PANGLIMA BESAR SUDIRMAN",
+        "city": "SUKABUMI",
+        "road_weight": 0.5
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            106.92086656224512,
+            -6.920205051763261
+          ],
+          [
+            106.92220646133916,
+            -6.920655222231062
+          ],
+          [
+            106.92300786590079,
+            -6.92134969680167
+          ],
+          [
+            106.92343081544101,
+            -6.921483342501176
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "road_id": "SBM_JAY_01",
+        "road_name": "Jl JENDERAL ACHMAD YANI",
+        "city": "SUKABUMI",
+        "road_weight": 0.55
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            106.92374459317648,
+            -6.921564944286487
+          ],
+          [
+            106.92649585698376,
+            -6.922036714327902
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "road_id": "SBM_SK_01",
+        "road_name": "Jl SURYA KENCANA",
+        "city": "SUKABUMI",
+        "road_weight": 0.55
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            106.92811272165375,
+            -6.919269401700191
+          ],
+          [
+            106.9294242508434,
+            -6.917492113353546
+          ],
+          [
+            106.92966912049451,
+            -6.917286017679871
+          ],
+          [
+            106.93000980870357,
+            -6.917101059946859
+          ],
+          [
+            106.93062770948887,
+            -6.916834767019495
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "road_id": "SBM_REM_01",
+        "road_name": "Jl RE MARTADINATA",
+        "city": "SUKABUMI",
+        "road_weight": 0.45
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            106.92999284027337,
+            -6.920383954081856
+          ],
+          [
+            106.93133266380289,
+            -6.920606961371149
+          ],
+          [
+            106.93199788776172,
+            -6.920701887977927
+          ],
+          [
+            106.93226368591445,
+            -6.920695455431215
+          ],
+          [
+            106.9325467241647,
+            -6.920579820510227
+          ],
+          [
+            106.93283959757184,
+            -6.920545670263451
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "road_id": "SBM_JAY_02",
+        "road_name": "Jl JENDERAL ACHMAD YANI",
+        "city": "SUKABUMI",
+        "road_weight": 0.35
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            106.92782247655896,
+            -6.922199977354168
+          ],
+          [
+            106.92932220721309,
+            -6.922379857281754
+          ],
+          [
+            106.93020039318583,
+            -6.922479122402663
+          ],
+          [
+            106.93052795827424,
+            -6.922506984045398
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "road_id": "SBM_SK_02",
+        "road_name": "Jl SURYA KENCANA",
+        "city": "SUKABUMI",
+        "road_weight": 0.5
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            106.93144291004506,
+            -6.916470137403493
+          ],
+          [
+            106.93180419653561,
+            -6.916287594235868
+          ],
+          [
+            106.9319773623642,
+            -6.91610698840654
+          ],
+          [
+            106.9326456663315,
+            -6.915166682925928
+          ],
+          [
+            106.93304529925848,
+            -6.914514218579626
+          ],
+          [
+            106.93316538347403,
+            -6.91415241548745
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "road_id": "SBM_SS_01",
+        "road_name": "Jl SYAMSUDIN SH",
+        "city": "SUKABUMI",
+        "road_weight": 0.35
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            106.93167003859776,
+            -6.918222905915428
+          ],
+          [
+            106.9323456939299,
+            -6.918357053084591
+          ],
+          [
+            106.93397467304447,
+            -6.918428240832569
+          ],
+          [
+            106.93468467502368,
+            -6.918445987358169
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "road_id": "SBM_OI_01",
+        "road_name": "Jl OTTO ISKANDARDINATA",
+        "city": "SUKABUMI",
+        "road_weight": 0.75
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            106.93358936528716,
+            -6.925765601845583
+          ],
+          [
+            106.93383084700383,
+            -6.924501591096856
+          ],
+          [
+            106.93403387452628,
+            -6.923002843734508
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "road_id": "SBM_CCR_02",
+        "road_name": "Jl CAGAK CIBARATA",
+        "city": "SUKABUMI",
+        "road_weight": 0.55
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            106.88997262989841,
+            -6.906914741750526
+          ],
+          [
+            106.88698226343979,
+            -6.904886548844914
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "road_id": "SBM_BHY_02",
+        "road_name": "Jl BHAYANGKARA",
+        "city": "SUKABUMI",
+        "road_weight": 0.75
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            106.93248650483469,
+            -6.914450217461024
+          ],
+          [
+            106.93240338505649,
+            -6.914114432590395
+          ],
+          [
+            106.93119643477957,
+            -6.913349286032002
+          ],
+          [
+            106.92965532796859,
+            -6.912485939172981
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "road_id": "SBM_BYK_05",
+        "road_name": "Jl BAYANGKARA",
+        "city": "SUKABUMI",
+        "road_weight": 0.75
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            106.87016237403071,
+            -6.90582453217516
+          ],
+          [
+            106.86972350460798,
+            -6.905774800865842
+          ],
+          [
+            106.8668250231321,
+            -6.905142557707762
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "road_id": "SBM_RS_01",
+        "road_name": "Jl RAYA SUKABUMI",
+        "city": "SUKABUMI",
+        "road_weight": 0.55
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            106.86651481596789,
+            -6.905058175846506
+          ],
+          [
+            106.86542395724615,
+            -6.904858555342599
+          ],
+          [
+            106.86363249451949,
+            -6.904613392085835
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "road_id": "SBM_RS_02",
+        "road_name": "Jl RAYA SUKABUMI",
+        "city": "SUKABUMI",
+        "road_weight": 0.55
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            106.86354675792404,
+            -6.9045888661246835
+          ],
+          [
+            106.86221357647804,
+            -6.9043008502158045
+          ],
+          [
+            106.86064298707299,
+            -6.904112570494846
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "road_id": "SBM_RS_03",
+        "road_name": "Jl RAYA SUKABUMI",
+        "city": "SUKABUMI",
+        "road_weight": 0.65
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            106.86056375976142,
+            -6.904104115889325
+          ],
+          [
+            106.85860638872964,
+            -6.903681703102279
+          ],
+          [
+            106.85742475343034,
+            -6.903682919044002
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "road_id": "SBM_RS_04",
+        "road_name": "Jl RAYA SUKABUMI",
+        "city": "SUKABUMI",
+        "road_weight": 0.75
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            106.85727205464411,
+            -6.903691648980299
+          ],
+          [
+            106.85371806909359,
+            -6.903843923048868
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "road_id": "SBM_RS_05",
+        "road_name": "Jl RAYA SUKABUMI",
+        "city": "SUKABUMI",
+        "road_weight": 0.55
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            106.85358302777462,
+            -6.903824312648865
+          ],
+          [
+            106.85292761434903,
+            -6.9036466691630665
+          ],
+          [
+            106.85182382773024,
+            -6.9027858160356885
+          ],
+          [
+            106.85061229212982,
+            -6.902480656947603
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "road_id": "SBM_RASIL_01",
+        "road_name": "Jl RAYA SILIWANGI",
+        "city": "SUKABUMI",
+        "road_weight": 0.65
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            106.79520178400497,
+            -6.89447668278649
+          ],
+          [
+            106.79167322893375,
+            -6.8944499479537455
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "road_id": "SBM_RASIL_02",
+        "road_name": "Jl RAYA SILIWANGI",
+        "city": "SUKABUMI",
+        "road_weight": 0.65
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            106.7914615896591,
+            -6.8944340391747545
+          ],
+          [
+            106.78836585871477,
+            -6.894095231341296
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "road_id": "SBM_RASIL_03",
+        "road_name": "Jl RAYA SILIWANGI",
+        "city": "SUKABUMI",
+        "road_weight": 0.75
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            106.78826847204044,
+            -6.894075287022318
+          ],
+          [
+            106.7850828663058,
+            -6.893790223160721
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "road_id": "SBM_RASIL_04",
+        "road_name": "Jl RAYA SILIWANGI",
+        "city": "SUKABUMI",
+        "road_weight": 0.65
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            106.7850468638461,
+            -6.893781589117069
+          ],
+          [
+            106.78437513057935,
+            -6.893587823213537
+          ],
+          [
+            106.78395965997026,
+            -6.893347177416402
+          ],
+          [
+            106.78374210983668,
+            -6.893054779925805
+          ],
+          [
+            106.78342909492727,
+            -6.892457394128982
+          ],
+          [
+            106.78316954186192,
+            -6.8922761137190065
+          ],
+          [
+            106.78295956799627,
+            -6.892203394871359
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "road_id": "SBM_TKL_01",
+        "road_name": "Jl TANGKIL",
+        "city": "SUKABUMI",
+        "road_weight": 0.65
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            106.78287405702383,
+            -6.89217279525414
+          ],
+          [
+            106.7821597289767,
+            -6.891920837831776
+          ],
+          [
+            106.78180533984738,
+            -6.891649252433297
+          ],
+          [
+            106.78127242764913,
+            -6.890880144664081
+          ],
+          [
+            106.78076237713287,
+            -6.889852110919705
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "road_id": "SBM_PK_01",
+        "road_name": "Jl PERINTIS KEMERDEKAAN",
+        "city": "SUKABUMI",
+        "road_weight": 0.65
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            106.78367941083712,
+            -6.893441123295844
+          ],
+          [
+            106.78344378001424,
+            -6.894044110227284
+          ],
+          [
+            106.78297957313248,
+            -6.895070981999581
+          ],
+          [
+            106.78278165974706,
+            -6.89523665531631
+          ],
+          [
+            106.7814648360154,
+            -6.895853774520589
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "road_id": "SBM_PK_02",
+        "road_name": "Jl PERINTIS KEMERDEKAAN",
+        "city": "SUKABUMI",
+        "road_weight": 0.45
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            106.78127789131884,
+            -6.89594652562387
+          ],
+          [
+            106.77956879997356,
+            -6.8967609911967855
+          ],
+          [
+            106.77938311733232,
+            -6.898062905133443
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "road_id": "SBM_RASIL_05",
+        "road_name": "Jl RAYA SILIWANGI",
+        "city": "SUKABUMI",
+        "road_weight": 0.35
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            106.79532923867754,
+            -6.894481573085173
+          ],
+          [
+            106.79605754322932,
+            -6.894512898816714
+          ],
+          [
+            106.79729632127282,
+            -6.894359002118293
+          ],
+          [
+            106.79860898124224,
+            -6.894268611975974
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "road_id": "SBM_RS_06",
+        "road_name": "Jl RAYA SUKABUMI",
+        "city": "SUKABUMI",
+        "road_weight": 0.45
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            106.79945192919706,
+            -6.894155636580635
+          ],
+          [
+            106.801639760652,
+            -6.894882144698315
+          ],
+          [
+            106.80263371667513,
+            -6.894905098593
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "road_id": "SBM_RS_07",
+        "road_name": "Jl RAYA SUKABUMI",
+        "city": "SUKABUMI",
+        "road_weight": 0.55
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            106.80275559041957,
+            -6.894895840071797
+          ],
+          [
+            106.80514307020655,
+            -6.894766016059208
+          ],
+          [
+            106.80618971903505,
+            -6.894857534459092
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "road_id": "SBM_RS_08",
+        "road_name": "Jl RAYA SUKABUMI",
+        "city": "SUKABUMI",
+        "road_weight": 0.35
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            106.81413982148803,
+            -6.895854725765744
+          ],
+          [
+            106.81738273695396,
+            -6.8962912476846725
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "road_id": "SBM_RS_09",
+        "road_name": "Jl RAYA SUKABUMI",
+        "city": "SUKABUMI",
+        "road_weight": 0.35
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            106.81844690303342,
+            -6.896455322795575
+          ],
+          [
+            106.81969658397571,
+            -6.896882696259269
+          ],
+          [
+            106.8210517046046,
+            -6.89764323454439
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "road_id": "SBM_RS_10",
+        "road_name": "Jl RAYA SUKABUMI",
+        "city": "SUKABUMI",
+        "road_weight": 0.45
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            106.83098679189072,
+            -6.9013437800689275
+          ],
+          [
+            106.83381557391499,
+            -6.901466702290193
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "road_id": "SBM_LB_01",
+        "road_name": "Jl LETTU BAKRI",
+        "city": "SUKABUMI",
+        "road_weight": 0.45
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            106.92226547369518,
+            -6.921447860517802
+          ],
+          [
+            106.92194704201592,
+            -6.923003601697502
+          ],
+          [
+            106.92370308276674,
+            -6.923460536851792
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "road_id": "SBM_NYM_01",
+        "road_name": "Jl NYOMPLONG",
+        "city": "SUKABUMI",
+        "road_weight": 0.35
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            106.92193313465901,
+            -6.92309180446901
+          ],
+          [
+            106.921522461125,
+            -6.924664449706356
+          ],
+          [
+            106.92119794631242,
+            -6.926201608045588
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "road_id": "SBM_KHK_01",
+        "road_name": "Jl KAPTEN HARUN KABIR",
+        "city": "SUKABUMI",
+        "road_weight": 0.35
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            106.92726948876839,
+            -6.924844517339224
+          ],
+          [
+            106.927427968389,
+            -6.9242461492609095
+          ],
+          [
+            106.9278235690976,
+            -6.922293160672808
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "road_id": "SBM_PL_01",
+        "road_name": "Jl PELABUHAN I",
+        "city": "SUKABUMI",
+        "road_weight": 0.55
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            106.92724183109783,
+            -6.924919748979448
+          ],
+          [
+            106.92662580661948,
+            -6.927379798067065
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "road_id": "SBM_SLW_01",
+        "road_name": "Jl SILIWANGI",
+        "city": "SUKABUMI",
+        "road_weight": 0.25
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            106.93552453517486,
+            -6.922900506322648
+          ],
+          [
+            106.93578168253396,
+            -6.9200055303997345
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "road_id": "SBM_SLW_02",
+        "road_name": "Jl SILIWANGI",
+        "city": "SUKABUMI",
+        "road_weight": 0.35
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            106.93583042746815,
+            -6.919727328771245
+          ],
+          [
+            106.93624876649625,
+            -6.9175314881560155
+          ],
+          [
+            106.93605310314098,
+            -6.916572424948981
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "road_id": "SBM_RS_11",
+        "road_name": "Jl RAYA SUKABUMI",
+        "city": "SUKABUMI",
+        "road_weight": 0.35
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            106.8343921603227,
+            -6.901530585393701
+          ],
+          [
+            106.8357479047404,
+            -6.901561831010881
+          ],
+          [
+            106.83757234969693,
+            -6.901372830838355
+          ]
+        ],
+        "type": "LineString"
+      }
+    }
+  ]
+}

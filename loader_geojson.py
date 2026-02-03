@@ -21,7 +21,7 @@ def init_db():
     
     # Path robust: relative to this file
     base_dir = os.path.dirname(os.path.abspath(__file__))
-    json_path = os.path.join(base_dir, "../data/roads.geojson")
+    json_path = os.path.join(base_dir, "data/roads.geojson")
     
     try:
         with open(json_path, encoding="utf-8") as f:
